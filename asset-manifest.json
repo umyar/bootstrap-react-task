@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/umyar/diem-task/static/css/main.d96a9f27.chunk.css",
+    "main.js": "/umyar/diem-task/static/js/main.a2b45cb5.chunk.js",
+    "main.js.map": "/umyar/diem-task/static/js/main.a2b45cb5.chunk.js.map",
+    "runtime~main.js": "/umyar/diem-task/static/js/runtime~main.c01948da.js",
+    "runtime~main.js.map": "/umyar/diem-task/static/js/runtime~main.c01948da.js.map",
+    "static/js/2.e80e230c.chunk.js": "/umyar/diem-task/static/js/2.e80e230c.chunk.js",
+    "static/js/2.e80e230c.chunk.js.map": "/umyar/diem-task/static/js/2.e80e230c.chunk.js.map",
+    "index.html": "/umyar/diem-task/index.html",
+    "precache-manifest.d178304d1b9271c68d8fd945623ba815.js": "/umyar/diem-task/precache-manifest.d178304d1b9271c68d8fd945623ba815.js",
+    "service-worker.js": "/umyar/diem-task/service-worker.js",
+    "static/css/main.d96a9f27.chunk.css.map": "/umyar/diem-task/static/css/main.d96a9f27.chunk.css.map",
+    "static/media/doctor.jpeg": "/umyar/diem-task/static/media/doctor.401d0711.jpeg"
+  }
+}
